@@ -1,0 +1,11 @@
+To-Do List:
+
+-Start info deck
+
+-Play around with model to make better (maybe logreg)
+
+-Get quantifiable risk for each customer
+
+-Visualising Demographics and make other info deck graphs
+
+-Maybe call Alex
